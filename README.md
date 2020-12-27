@@ -1,8 +1,5 @@
-![alt text](http://url/to/img.png)
+![add_new_user](/img/1.png)
+![Login](/img/2.png)
+![admin_view](/img/3.png)
+![user_view](/img/4.png)
 
-![GitHub Logo](/images/logo.png)
-
-![Login](/img/1.png)
-
-
-#Format: ![Alt Text](url)
